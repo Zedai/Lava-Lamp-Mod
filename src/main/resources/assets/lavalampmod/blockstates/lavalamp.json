@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "lavalampmod:lavalamp"
+    },
+    "facing=north": {
+      "model": "lavalampmod:lavalamp"
+    },
+    "facing=east": {
+      "model": "lavalampmod:lavalamp",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "lavalampmod:lavalamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lavalampmod:lavalamp",
+      "y": 270
+    }
+  }
+}
